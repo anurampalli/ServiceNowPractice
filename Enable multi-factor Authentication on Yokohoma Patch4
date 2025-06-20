@@ -1,0 +1,5 @@
+How to enable multi-factor Authentication on Yokohoma Patch4 if it does not adhere to default behaviour
+
+1. Search Multi-Factor Authentication in the filter Search Bar
+2. Navigate to Properties
+3. Select Yes for the property "Enable Multi-factor authentication" - which is the first property
